@@ -1,6 +1,6 @@
 # gpt3-writer
 
-This is a webapp made using **React**. It is used to send prompts to the GPT-3 model using OpenAI's API.
+This is a webapp made using `React`. It is used to send prompts to the GPT-3 model using OpenAI's API.
 
 The project is initialized using `Vite` instead of **create_react_app** which is much faster as compared to the latter.
 **TailwindCSS** is used for easy CSS. Which is a useful framework to write fast CSS.
