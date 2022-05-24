@@ -5,7 +5,7 @@ This is a webapp made using **React**. It is used to send prompts to the GPT-3 m
 The project is initialized using `Vite` instead of **create_react_app** which is much faster as compared to the latter.
 **TailwindCSS** is used for easy CSS. Which is a useful framework to write fast CSS.
 
-![GUI-screenshot-1](screenshot1.jpg =480x240)
+<img src="screenshot1.jpg"  width="200" height="400" />
 
 ![GUI-screenshot-1](screenshot1.jpg)
 
