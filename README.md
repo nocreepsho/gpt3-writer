@@ -1,4 +1,4 @@
-# gpt3-writer
+# GPT3-writer
 
 This is a webapp made using `React`. It is used to send prompts to the GPT-3 model using OpenAI's API.
 
