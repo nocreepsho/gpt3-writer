@@ -16,4 +16,5 @@ After retrieving the key, you can either use it directly in the "prompt.jsx" or 
 ## Run
 You can install dependencies and run the project from inside the **client** folder.
 ```npm install
-npm run dev```
+npm run dev
+```
