@@ -8,6 +8,8 @@ The project is initialized using `Vite` instead of **create_react_app** which is
  <br>
 
 ![GUI-screenshot-1](screenshot1.jpg)
+
+
 ![GUI-screenshot-1](screenshot1.jpg)
 
 <br>
