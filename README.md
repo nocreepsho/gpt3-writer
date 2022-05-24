@@ -13,6 +13,7 @@ The project is initialized using `Vite` instead of **create_react_app** which is
 ![GUI-screenshot-1](screenshot2.2.jpg)
 
 <br>
+
 ## API Key
 You can get your limited API key from [OpenAI](https://beta.openai.com/overview)
 After retrieving the key, you can either use it directly in the `prompt.jsx` or to be safe you can use `dotenv` and save the key in a `.env` file.
