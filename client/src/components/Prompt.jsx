@@ -12,9 +12,10 @@ const Prompt = () => {
     var tempres = useRef('');
 
     //API Request to OPENAI GPT-3 
+    
     const fetchData = () => {
         const url = 'https://api.openai.com/v1/engines/text-curie-001/completions';
-    
+        
         const data = {
             prompt: prompt,
             temperature: 0.5,
@@ -25,7 +26,7 @@ const Prompt = () => {
         };
     
         const client = axios.create({
-            headers: { 'Authorization': 'Bearer ' + import.meta.env.VITE_API_KEY }
+            headers: { 'Authorization': 'Bearer ' + import.meta.env.VITE_API_KEY } //Paste API KEY here if not using .env variable
         });
     
         client.post(url, data)
