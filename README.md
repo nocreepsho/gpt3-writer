@@ -5,14 +5,13 @@ This is a webapp made using `React`. It is used to send prompts to the GPT-3 mod
 The project is initialized using `Vite` instead of **create_react_app** which is much faster as compared to the latter.
 **TailwindCSS** is used for easy CSS. Which is a useful framework to write fast CSS.
  
- <br>
+ 
 
 ![GUI-screenshot-1](screenshot1.2.jpg)
 
 
 ![GUI-screenshot-1](screenshot2.2.jpg)
 
-<br>
 
 ## API Key
 You can get your limited API key from [OpenAI](https://beta.openai.com/overview)
