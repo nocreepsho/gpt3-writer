@@ -1,4 +1,4 @@
-#gpt3-writer
+# gpt3-writer
 
 This is a webapp made using `React`. It is used to send prompts to the GPT-3 model using OpenAI's API.
 
@@ -14,11 +14,11 @@ The project is initialized using `Vite` instead of **create_react_app** which is
 
 <br>
 
-##API Key
+## API Key
 You can get your limited API key from [OpenAI](https://beta.openai.com/overview)
 After retrieving the key, you can either use it directly in the `prompt.jsx` or to be safe you can use `dotenv` and save the key in a `.env` file.
 
-##Run
+## Run
 You can install dependencies and run the project from inside the `client` folder.
 ```
 npm install
